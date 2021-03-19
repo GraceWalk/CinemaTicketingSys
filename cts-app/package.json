@@ -7,11 +7,19 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.0.5"
+    "@better-scroll/core": "^2.2.1",
+    "axios": "^0.21.1",
+    "vant": "^3.0.9",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.4",
+    "vuex": "^4.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.1.5",
     "@vue/compiler-sfc": "^3.0.5",
+    "eslint": "^7.21.0",
+    "eslint-plugin-vue": "^7.7.0",
+    "sass": "^1.32.8",
     "vite": "^2.0.5"
   }
 }
